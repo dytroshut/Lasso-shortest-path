@@ -1,7 +1,8 @@
 # Lasso-shortest-path
 Code for the paper ``A lasso-alternative to Dijkstra’s algorithm for identifying short paths in networks''
+An ealier conference version of the paper can be found at https://arxiv.org/abs/2005.09152.
+The latest jounal version is not published yet, stay tuned:)
 
-The paper can be found at https://arxiv.org/abs/2005.09152.
 The optimization functions are from https://web.stanford.edu/~boyd/papers/admm.
 Originial figures are included under the folder ``figures''.
 
